@@ -1,0 +1,68 @@
+<resources>
+    <string name="whatsapp">Logo de Whatsapp</string>
+    <string name="app_name">ProyectoClinica</string>
+    <string name="portada">Portada de la clinica</string>
+    <string name="logo">Logo</string>
+    <string name="titulo_clinica">Clinica</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="registrar">Crear cuenta</string>
+    <string name="title_activity_registrarse">RegistrarseActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="ingresar_correo">Ingrese su correo</string>
+    <string name="ingresar_contraseña">Ingrese su contraseña</string>
+    <string name="ingresar_nombre">Ingrese su nombre</string>
+    <string name="ingresar_dni">Ingrese su dni</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_terminos2">TerminosActivity2</string>
+    <string name="close_activity">Cerrar</string>
+    <string name="vision_clinica">Vision</string>
+    <string name="mision_clinica">Mision</string>
+    <string name="terminos_clinica">Terminos</string>
+    <string name="vision_text_clinica">"Nuestra visión es ser reconocidos como líderes en la prestación de atención médica excepcional, centrada en el paciente y basada en la innovación. Aspiramos a ser la clínica preferida por nuestra comunidad, conocida por nuestra excelencia clínica, nuestro compromiso con el avance tecnológico y nuestra dedicación a la mejora continua. Nos esforzamos por establecer relaciones sólidas y duraderas con nuestros pacientes, brindando cuidados compasivos y efectivos a lo largo de sus vidas".</string>
+    <string name="mision_text_clinica">"En nuestra clínica, nuestra misión es proporcionar atención médica de calidad, accesible y compasiva a nuestros pacientes. Nos esforzamos por promover la salud y el bienestar de la comunidad mediante el suministro de servicios médicos integrales, basados en la evidencia y centrados en el paciente. Nos comprometemos a mantener la confianza de nuestros pacientes a través de una comunicación abierta, un trato respetuoso y un enfoque individualizado para cada persona que confía en nosotros con su cuidado de la salud".</string>
+    <string name="termino_text_clinica">1.	Atención médica integral: Proporcionar servicios médicos que aborden las necesidades físicas, emocionales y sociales de nuestros pacientes.
+        \n\n
+        2.	Profesionales de la salud cualificados: Contar con un equipo de médicos, enfermeras y personal de apoyo altamente capacitado y comprometido con la excelencia en la atención médica.
+        \n\n
+        3.	Tecnología médica avanzada: Utilizar tecnología de vanguardia para diagnosticar, tratar y prevenir enfermedades, asegurando así los mejores resultados para nuestros pacientes.
+        \n\n
+        4.	Ética médica: Operar con los más altos estándares éticos, garantizando la confidencialidad, el respeto y la dignidad de nuestros pacientes en todo momento.
+        \n\n
+        5.	Prevención de enfermedades: Promover la salud y el bienestar a través de programas de prevención de enfermedades, educación para la salud y detección temprana de condiciones médicas.
+        \n\n
+        6.	Tratamiento personalizado: Ofrecer tratamientos médicos adaptados a las necesidades individuales de cada paciente, teniendo en cuenta su historial médico, preferencias y circunstancias únicas.
+        \n\n
+        7.	Investigación médica: Contribuir al avance de la medicina mediante la participación en investigaciones clínicas, el desarrollo de nuevas terapias y la implementación de prácticas basadas en la evidencia.
+        \n\n
+        8.	Accesibilidad y equidad: Garantizar que todos los pacientes tengan acceso igualitario a la atención médica, independientemente de su origen étnico, situación socioeconómica o capacidad de pago.
+        \n\n
+        9.	Colaboración interdisciplinaria: Fomentar la colaboración entre diferentes especialidades médicas, así como con otros profesionales de la salud y servicios sociales, para brindar una atención integral y coordinada.
+        \n\n
+        10.	Atención centrada en el paciente: Priorizar las necesidades y preferencias del paciente en la toma de decisiones médicas, involucrándolos activamente en su propio cuidado y tratamiento.
+    </string>
+    <string name="escritorio">Escritorio</string>
+    <string name="title_activity_user_principal">UserPrincipalActivity</string>
+    <string name="title_activity_reg_cita">RegCitaActivity</string>
+    <string name="title_activity_reg_doctores">RegDoctoresActivity</string>
+    <string name="title_activity_reg_pacietes">RegPacietesActivity</string>
+    <string name="title_activity_pago">PagoActivity</string>
+    <string name="title_activity_agr_doctor">AgrDoctorActivity</string>
+    <string name="title_activity_agr_paciente">AgrPacienteActivity</string>
+    <string name="title_activity_buscar_doctor">BuscarDoctorActivity</string>
+    <string name="title_activity_buscar_paciente">BuscarPacienteActivity</string>
+    <string name="title_activity_listar_doctor">ListarDoctorActivity</string>
+    <string name="title_activity_detalle_doctor">DetalleDoctorActivity</string>
+    <string name="title_activity_listar_paciente">ListarPacienteActivity</string>
+    <string name="title_activity_listar_medicina">ListarMedicinaActivity</string>
+    <string name="title_activity_buscar_medicina">BuscarMedicinaActivity</string>
+    <string name="title_activity_act_doctores">ActDoctoresActivity</string>
+    <string name="title_activity_act_paciente">ActPacienteActivity</string>
+    <string name="title_activity_reg_medicina">RegMedicinaActivity</string>
+    <string name="title_activity_act_medicina">ActMedicinaActivity</string>
+    <string name="title_activity_buscar_citas">BuscarCitasActivity</string>
+    <string name="title_activity_act_citas">ActCitasActivity</string>
+    <string name="title_activity_listar_cita">ListarCitaActivity</string>
+</resources>

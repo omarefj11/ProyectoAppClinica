@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProyectoClinica"
+        tools:targetApi="31">
+        <activity
+            android:name=".Menu.ActCitasActivity"
+            android:exported="false"
+            android:label="@string/title_activity_act_citas"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.BuscarCitasActivity"
+            android:exported="false"
+            android:label="@string/title_activity_buscar_citas"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.ActMedicinaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_act_medicina"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.RegMedicinaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_reg_medicina"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.ActPacienteActivity"
+            android:exported="false"
+            android:label="@string/title_activity_act_paciente"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.ActDoctoresActivity"
+            android:exported="false"
+            android:label="@string/title_activity_act_doctores"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.BuscarMedicinaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_buscar_medicina"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.DetalleDoctorActivity"
+            android:exported="false"
+            android:label="@string/title_activity_detalle_doctor"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.BuscarPacienteActivity"
+            android:exported="false"
+            android:label="@string/title_activity_buscar_paciente"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.BuscarDoctorActivity"
+            android:exported="false"
+            android:label="@string/title_activity_buscar_doctor"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.PagoActivity"
+            android:exported="false"
+            android:label="@string/title_activity_pago"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.RegPacietesActivity"
+            android:exported="false"
+            android:label="@string/title_activity_reg_pacietes"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.RegDoctoresActivity"
+            android:exported="false"
+            android:label="@string/title_activity_reg_doctores"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".Menu.RegCitaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_reg_cita"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".UserPrincipalActivity"
+            android:exported="false"
+            android:label="@string/title_activity_user_principal"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".TerminosActivity2"
+            android:exported="false"
+            android:label="@string/title_activity_terminos2"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:label="@string/title_activity_splash"
+            android:theme="@style/Theme.ProyectoClinica">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InicioActivity"
+            android:exported="false"
+            android:label="@string/title_activity_inicio"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".RegistrarseActivity"
+            android:exported="false"
+            android:label="@string/title_activity_registrarse"
+            android:theme="@style/Theme.ProyectoClinica" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ProyectoClinica" />
+    </application>
+
+</manifest>
